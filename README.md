@@ -1,7 +1,7 @@
-# Hi 👋 I am Maulik
+# Hi 👋 I am Maulik Panchal 
 ## A passionate full-stack web developer
 
-* 🌍  I'm based in india
+* 🌍  I'm based in India
 * ✉️  You can reach me at [maulikwork1811@gmail.com](mailto:maulikwork1811@gmail.com)
 
 
